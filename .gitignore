@@ -1,0 +1,15 @@
+output/
+.idea/
+*.iml
+target/
+output/
+*~
+test-output/
+logs/
+.classpath
+.settings
+.project
+nbactions.xml
+nb-configuration.xml
+# license files :) - Aspose
+*.lic

@@ -1,0 +1,2 @@
+model:
+  word2vec.trained.location: /home/mark/GoogleNews-vectors-negative300.bin.gz
